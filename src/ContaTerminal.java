@@ -44,6 +44,6 @@ public class ContaTerminal {
         } else {
             System.out.println("Obrigada por acessar nosso caixa online.");
         }
-
+        scanner.close();
     }
 }
